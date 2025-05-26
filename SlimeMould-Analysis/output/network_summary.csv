@@ -1,0 +1,4 @@
+Graph,Clustering Coefficient,Mean Path Length,Total Path Length,Number of Nodes,Number of Edges
+Original,0.016,12.7762,241572,140,145
+MST,0.0,16.4986,311956,140,138
+Slime Mold,0.0475,22.1199,635506,170,178
