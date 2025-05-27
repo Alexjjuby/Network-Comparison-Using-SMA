@@ -64,7 +64,7 @@ After filtering misaligned data, the combined routes and stops were saved as 2 i
 
 The Mesa project, 'Slime Mould Basic', has the capabilities to create live visualisation of the model according to the now preprocessed stops.
 If you are updating the code in order to set new data points in, then note that:
-  - The path for the new data points must be updated in both the 'visualization.py' file (geojson_path under server) and at the 'mould_model.py' file (geojson_path at the start under the model class)
+  - The path for the new data points must be updated in both the 'visualization.py' file (geojson_path under server) and in the 'mould_model.py' file (geojson_path at the start under the model class)
   - The center point/start location for the slime has been set manually and can be done in the mould_model.py file by the loading of the stations (set in the code: class MouldModel(Model)).
       - These coordinates are x and y respectively according to the grid_width and grid_height. (Currently both set at 200)
    
