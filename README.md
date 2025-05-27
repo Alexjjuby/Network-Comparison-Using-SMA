@@ -16,8 +16,6 @@ In this project i look at the differences in network design using Rome's Railway
   <img alt="" src="SlimeMould-Analysis/output/250steps.gif" width="400"/>
   <img alt="" src="SlimeMould-Analysis/output/350steps.gif" width="400"/>
 </p>
-  <img alt="" src="SlimeMould-Analysis/output/450steps.gif" width="400"/>
-</p>
 
 ## Network comparison
 
