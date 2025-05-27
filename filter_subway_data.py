@@ -14,7 +14,7 @@ stops_gdf = gpd.read_file(stops_file)
 # === Load subway CSV data ===
 print("📥 Loading subway link data...")
 subway_df = pd.read_csv(subway_csv_file, sep=';', engine='python')
-subway_df.columns = subway_df.columns.str.strip()  # remove leading/trailing whitespace
+subway_df.columns = subway_df.columns.str.strip()
 
 # === Get all relevant stop IDs used in the subway network ===
 print("🔍 Extracting relevant stop IDs...")
