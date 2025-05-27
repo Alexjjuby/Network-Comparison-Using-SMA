@@ -40,7 +40,7 @@
 
 ## Background
 
-The concept behind this project is to attempt to model networks based on a Slime Mould Algorithm (SMA), first popularised by Tero et al. 2010 in their paper Rules for Biologically Inspired Adaptive Network Design.
+The concept behind this project is to attempt to model networks based on a Slime Mould Algorithm (SMA), first popularised by Tero et al. 2010 in their paper 'Rules for Biologically Inspired Adaptive Network Design'.
 In their paper they successfully modelled Tokyo's railway system via a natural growth by a slime mold, called Physarum polycephalum, to develop a biologically inspired model for adaptive network development.
 
 I have modified the model created by Wenxiao Zhang (https://github.com/MoeBuTa/SlimeMould) which accurately mimics a SMA to apply it to Romes Railway Network. You can find further details about the model on the GitHub repository.
@@ -51,7 +51,7 @@ This was done in order for this projects future development to continue, as stat
 
 ## Preprocessing
 
-Contained in the files is the code used to filter the geojson data selected from Kujala et al. 2018 from the paper A collection of public transport network data sets for 25 cities.
+Contained in the files is the code used to filter the geojson data selected from Kujala et al. 2018 from the paper 'A collection of public transport network data sets for 25 cities'.
 After the filtering of both the subway and railway paths and nodes they were then combined and visualised on the website https://geojson.io.
 After filtering misaligned data, the combined routes and stops were saved as 2 individual files which were then used later on.
 
