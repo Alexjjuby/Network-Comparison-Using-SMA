@@ -1,4 +1,6 @@
-# What and why SMA?
+# Network Comparison Using SMA
+
+## What and Why SMA?
 SMA stands for Slime Mould Algorithm which is a population-based optimization technique proposed on the basis of oscillation style of slime mould in nature.
 It has been found that SMA is good for model network analysis as its development ensures both a stable balance between global and local search drifts.
 In this project i look at the differences in network design using Rome's Railway Network as the main focus.
