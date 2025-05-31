@@ -15,10 +15,6 @@ def load_stations(path):
     stations['x'] = ((stations['lon'] - min_lon) * 1000).astype(int)
     stations['y'] = ((stations['lat'] - min_lat) * 1000).astype(int)
     
-    # Filter to central cluster
-    #stations = stations[(stations['x'] > 150) & (stations['x'] < 500) &
-    #                   (stations['y'] > 530) & (stations['y'] < 800)]
-    
     # Normalize to top-left origin + padding
     min_x = stations['x'].min()
     min_y = stations['y'].min()
