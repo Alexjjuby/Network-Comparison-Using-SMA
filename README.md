@@ -53,6 +53,10 @@ However, as stated in the report by Zhang, a limitation of the current design is
 I have transferred the model over to python's Mesa project which allows for live visualisation and modification of variables. 
 This was done in order for this projects future development to continue, as static variables do not allow for dynamic progress in science.
 
+The decision to select Rome as the focus is due to the forced expansion of their rail network due to the archeological value of the city and its surroundings. 
+This means that areas often not yet studied are discovered such that expansion of the network must be rerouted from their original plan, hence its unique formation.
+A biologically based network of Rome would allow for interesting considerations for future development of the city in comparison to the current network.
+
 
 ## Preprocessing
 
